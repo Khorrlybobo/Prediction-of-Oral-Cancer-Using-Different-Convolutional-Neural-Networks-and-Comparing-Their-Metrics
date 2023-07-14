@@ -51,7 +51,47 @@ The dataset used for training and evaluation consists of oral cancer images. The
 
 # [E] Results and Analysis
 
-Based on the evaluation metrics, a comprehensive analysis of the performance of each CNN architecture is conducted. The results include accuracy, precision, recall, and AUC scores for each architecture. This analysis provides insights into the strengths and weaknesses of each model, facilitating the selection of the most appropriate architecture for oral cancer prediction.
+Here's the updated Results and Analysis section for each CNN architecture:
+
+### VGG16
+The VGG16 model achieved the following performance metrics:
+
+- Loss: 0.5319547653198242
+- Accuracy: 0.8583333492279053
+- Precision: 0.8865979313850403
+- Recall: 0.9347826242446899
+- AUC: 0.8544255495071411
+
+### ResNet
+The ResNet model achieved the following performance metrics:
+
+- Loss: 0.6444424390792847
+- Accuracy: 0.8333333134651184
+- Precision: 0.8913043737411499
+- Recall: 0.8913043737411499
+- AUC: 0.8761645555496216
+
+### InceptionV3
+The InceptionV3 model achieved the following performance metrics:
+
+- Loss: 0.7425212264060974
+- Accuracy: 0.6499999761581421
+- Precision: 0.837837815284729
+- Recall: 0.6739130616188049
+- AUC: 0.6308229565620422
+
+### MobileNetV2
+The MobileNetV2 model achieved the following performance metrics:
+
+- Loss: 0.7906744480133057
+- Accuracy: 0.7749999761581421
+- Precision: 0.782608687877655
+- Recall: 0.97826087474823
+- AUC: 0.69972825050354
+
+These results highlight the performance of each CNN architecture in predicting oral cancer. Based on the metrics, we observe that the VGG16 and ResNet models achieved higher accuracy, precision, recall, and AUC scores compared to InceptionV3 and MobileNetV2. These findings suggest that VGG16 and ResNet architectures may be more suitable for oral cancer detection tasks. However, further analysis and experiments are necessary to determine the most optimal architecture for this specific application.
+
+Please note that these results are based on the specific dataset and experimental setup used in this project. Further research and evaluation may be required to generalize the findings to different datasets and scenarios.
 
 # [F] Usage
 
