@@ -21,8 +21,9 @@ Oral cancer is a significant global health concern, and its early detection play
 To run the code and reproduce the results, follow these steps:
 
 1. Clone the repository:
-
+	```shell
 	https://github.com/Khorrlybobo/Prediction-of-Oral-Cancer-Using-Different-Convolutional-Neural-Networks-and-Comparing-Their-Metrics.git
+ ```
 
 2. Install the required dependencies:
 
@@ -50,8 +51,6 @@ The dataset used for training and evaluation consists of oral cancer images. The
    - Comparative analysis of the metrics is performed to identify the most effective architecture for oral cancer prediction.
 
 # [E] Results and Analysis
-
-Here's the updated Results and Analysis section for each CNN architecture:
 
 ### VGG16
 The VGG16 model achieved the following performance metrics:
