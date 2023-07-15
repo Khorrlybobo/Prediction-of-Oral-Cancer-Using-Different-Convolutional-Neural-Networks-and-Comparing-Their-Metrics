@@ -78,6 +78,7 @@ The InceptionV3 model achieved the following performance metrics:
 - Precision: 0.837837815284729
 - Recall: 0.6739130616188049
 - AUC: 0.6308229565620422
+- F1_Score: 0.8369281888008118
 
 ### MobileNetV2
 The MobileNetV2 model achieved the following performance metrics:
