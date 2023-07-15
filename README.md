@@ -60,6 +60,7 @@ The VGG16 model achieved the following performance metrics:
 - Precision: 0.8865979313850403
 - Recall: 0.9347826242446899
 - AUC: 0.8544255495071411
+- F1_Score: 0.9041888117790222
 
 ### ResNet
 The ResNet model achieved the following performance metrics:
