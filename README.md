@@ -70,6 +70,7 @@ The ResNet model achieved the following performance metrics:
 - Precision: 0.8913043737411499
 - Recall: 0.8913043737411499
 - AUC: 0.8761645555496216
+- F1_Score: 0.9134570956230164
 
 ### InceptionV3
 The InceptionV3 model achieved the following performance metrics:
